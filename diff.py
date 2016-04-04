@@ -1,3 +1,7 @@
+#Compares two test cases, one where the header was fixed, one where it wasn't.  We were trying to quantify the possible discrepancy introduced by manually entering header information
+
+
+
 f = open("test", 'r')
 g = open("test-uncorr", 'r')
 
