@@ -1,3 +1,5 @@
+#Test case for manually computing gaussian line parameters. 
+
 import numpy
 import math
 
